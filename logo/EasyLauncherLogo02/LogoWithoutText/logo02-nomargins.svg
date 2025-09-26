@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="365.57 355.78 249.47 269.05">
+  <defs>
+    <style>
+      .cls-1{fill:#f05323}.cls-2{fill:#2077bd}.cls-3{fill:#82c341}.cls-4{fill:#f8bc16}
+    </style>
+  </defs>
+  <rect width="139.24" height="72.91" x="456.34" y="365.78" class="cls-1" rx="36.45"/>
+  <rect width="72.68" height="72.91" x="375.57" y="365.78" class="cls-2" rx="36.34"/>
+  <rect width="87.6" height="72.91" x="375.57" y="456.02" class="cls-3" rx="36.45"/>
+  <rect width="228.75" height="72.91" x="376.29" y="541.92" class="cls-2" rx="36.45" transform="translate(981.33 1156.74) rotate(-180)"/>
+  <rect width="72.68" height="72.68" x="471.64" y="456.13" class="cls-4" rx="36.34" transform="translate(1015.95 984.94) rotate(-180)"/>
+</svg>
